@@ -1,0 +1,26 @@
+{
+  "grupo": "G04",
+  "operacion": "Tikari Copper",
+  "zip_fuente": "GEM_S04_6_Visualizadores_Alternativas_v0.4.1_DOCENTE.zip",
+  "zip_sha256": "8d7cd6e629d8b01c233a7b3fe040cac02a0f4822c9f1a40e0064653f6052298b",
+  "html_fuente": "GEM_S04_G04_Tikari_Copper_Alternativas_v0.4.1.html",
+  "html_s04_sha256": "bff2c585e74021269a9a5c7e4809d7f06da503d59b5631131251086ea1c4ae53",
+  "html_s11_original_sha256": "85e7e4de8c70e035e355f4cba005043a81976a81d495d11712c4f36671432e7d",
+  "base_del_motor_s04": {
+    "group": "G04",
+    "days": 30,
+    "processed_t_month": 841222,
+    "processed_tpd": 28040.733333333334,
+    "crushed_t_month": 849681,
+    "head_grade_fraction": 0.008854924077942788,
+    "recovery_fraction": 0.8861711677218763,
+    "recovery_target_fraction": 0.92,
+    "plant_target_tpd": 28000,
+    "min_design_tpd": 30000.0,
+    "opex_kusd_month": 23063.982407400003,
+    "processing_variable_kusd_month": 9490.8348484,
+    "crushed_buffer_start_t": 45000.0,
+    "crushed_buffer_capacity_t": 150000.0,
+    "source": "D01–D03 oficiales, S04; escenarios A/B/C hipotéticos y editables"
+  }
+}
