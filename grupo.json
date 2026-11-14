@@ -6,5 +6,7 @@
   "grupal_sha256": "1bbe3cd8111f5595bb39be9d2c5ca66f60d4838341c1a5dfe10b071c5a607232",
   "repo_url": "https://github.com/DDev1822/GEM_G04_Tikari.git",
   "rama_base": "main",
-  "estado_modelos": "D08/D09 sintéticos propuestos; sin ratificación DD"
+  "estado_modelos": "D08/D09 sintéticos propuestos; sin ratificación DD",
+  "historico_sha256": "a55fd2c1c7f52d501538725468e4f2e38f0fcb9a46e07e1385abc8db03a29b2e",
+  "historico_t2_sha256": "7ad83831e328160570e5adbee1c571ccf6c3db1bc0e1e8b5571db160d374156e"
 }
